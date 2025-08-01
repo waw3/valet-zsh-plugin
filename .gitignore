@@ -14,7 +14,6 @@
 .Trash-*
 
 # Editor files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -29,3 +28,5 @@
 
 # Plugin-specific
 .plugin-cache/
+config.bat
+node_modules
